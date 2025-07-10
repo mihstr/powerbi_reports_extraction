@@ -1,0 +1,32 @@
+# Občutljive konfiguracijske datoteke
+config.py
+
+# Prenesene datoteke
+exports/
+pbir/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
