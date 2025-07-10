@@ -1,6 +1,6 @@
 # Power BI Reports Extraction Tool
 
-Avtomatizirana rešitev za masovno ekstrakcijo Power BI poročil iz cloud storitve, ki prenese vse poročila (PBIX) iz Power BI Service preko REST API-ja, jih konvertira v PBIR format z orodjem pbi-tools, shrani fizične datoteke v organizirane mape (exports/ za PBIX, pbir/ za PBIR strukture), izlušči seznam vseh vizualizacij in metapodatkov ter shrani vse informacije v Snowflake bazo za nadaljnjo analizo obsega in duplikacije med poročili.
+Avtomatizirana rešitev za masovno ekstrakcijo Power BI poročil iz cloud storitve, ki prenese vse poročila (PBIX) iz Power BI Service preko REST API-ja, jih konvertira v PBIR format z orodjem pbi-tools, shrani fizične datoteke v organizirane mape (exports/ za PBIX, pbir/ za PBIR strukture), izlušči seznam vseh vizualizacij in metapodatkov ter shrani vse informacije v Snowflake bazo za nadaljnjo analizo.
 
 ## Namestitev
 
